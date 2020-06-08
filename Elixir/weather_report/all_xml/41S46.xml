@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml-stylesheet href="latest_ob.xsl" type="text/xsl"?>
+<current_observation version="1.0"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+	<credit>NOAA's National Weather Service</credit>
+	<credit_URL>http://weather.gov/</credit_URL>
+	<image>
+		<url>http://weather.gov/images/xml_logo.gif</url>
+		<title>NOAA's National Weather Service</title>
+		<link>http://weather.gov</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<location>Unknown Station</location>
+	<station_id>41S46</station_id>
+	<observation_time>Last Updated on May 7 2016, 9:50 pm AST</observation_time>
+        <observation_time_rfc822>Sat, 07 May 2016 21:50:00 -0400</observation_time_rfc822>
+	<temperature_string>76.1 F (24.5 C)</temperature_string>
+	<temp_f>76.1</temp_f>
+	<temp_c>24.5</temp_c>
+	<water_temp_f>73.6</water_temp_f>
+	<water_temp_c>23.1</water_temp_c>
+	<wind_string>Calm</wind_string>
+	<wind_dir>North</wind_dir>
+	<wind_mph>0.0</wind_mph>
+	<wind_gust_mph>0.0</wind_gust_mph>
+	<pressure_string>1013.5 mb</pressure_string>
+	<pressure_mb>1013.5</pressure_mb>
+	<dewpoint_string>71.4 F (21.9 C)</dewpoint_string>
+	<dewpoint_f>71.4</dewpoint_f>
+	<dewpoint_c>21.9</dewpoint_c>
+	<average_period_sec>4.5</average_period_sec>
+	<mean_wave_dir>North</mean_wave_dir>
+	<mean_wave_degrees>4</mean_wave_degrees>
+	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
+	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
+	<privacy_policy_url>http://weather.gov/notice.html</privacy_policy_url>
+</current_observation>

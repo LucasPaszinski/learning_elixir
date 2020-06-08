@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml-stylesheet href="latest_ob.xsl" type="text/xsl"?>
+<current_observation version="1.0"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+	<credit>NOAA's National Weather Service</credit>
+	<credit_URL>http://weather.gov/</credit_URL>
+	<image>
+		<url>http://weather.gov/images/xml_logo.gif</url>
+		<title>NOAA's National Weather Service</title>
+		<link>http://weather.gov</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<location>Unknown Station</location>
+	<station_id>48214</station_id>
+	<observation_time>Last Updated on Oct 13 2015, 7:45 pm AST</observation_time>
+        <observation_time_rfc822>Tue, 13 Oct 2015 19:45:00 -0400</observation_time_rfc822>
+	<temperature_string>32.2 F (0.1 C)</temperature_string>
+	<temp_f>32.2</temp_f>
+	<temp_c>0.1</temp_c>
+	<water_temp_f>35.8</water_temp_f>
+	<water_temp_c>2.1</water_temp_c>
+	<wind_string>Northwest at 17.9 MPH (15.55 KT)</wind_string>
+	<wind_dir>Northwest</wind_dir>
+	<wind_degrees>300</wind_degrees>
+	<wind_mph>17.9</wind_mph>
+	<wind_gust_mph>0.0</wind_gust_mph>
+	<wind_kt>15.55</wind_kt>
+	<windchill_string>21 F (-6 C)</windchill_string>
+      	<windchill_f>21</windchill_f>
+      	<windchill_c>-6</windchill_c>
+	<mean_wave_dir>Southwest</mean_wave_dir>
+	<mean_wave_degrees></mean_wave_degrees>
+	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
+	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
+	<privacy_policy_url>http://weather.gov/notice.html</privacy_policy_url>
+</current_observation>

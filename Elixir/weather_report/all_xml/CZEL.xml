@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml-stylesheet href="latest_ob.xsl" type="text/xsl"?>
+<current_observation version="1.0"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+	<credit>NOAA's National Weather Service</credit>
+	<credit_URL>http://weather.gov/</credit_URL>
+	<image>
+		<url>http://weather.gov/images/xml_logo.gif</url>
+		<title>NOAA's National Weather Service</title>
+		<link>http://weather.gov</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<location>ELORA RCS, ON</location>
+	<station_id>CZEL</station_id>
+	<latitude>43.65</latitude>
+	<longitude>-80.42</longitude>
+	<observation_time>Last Updated on Apr 17 2020, 4:00 pm EDT</observation_time>
+        <observation_time_rfc822>Fri, 17 Apr 2020 16:00:00 -0400</observation_time_rfc822>
+	<temperature_string>38.0 F (3.3 C)</temperature_string>
+	<temp_f>38.0</temp_f>
+	<temp_c>3.3</temp_c>
+	<relative_humidity>49</relative_humidity>
+	<wind_string>South at 10.4 MPH (9 KT)</wind_string>
+	<wind_dir>South</wind_dir>
+	<wind_degrees>190</wind_degrees>
+	<wind_mph>10.4</wind_mph>
+	<wind_kt>9</wind_kt>
+	<pressure_string>1017.0 mb</pressure_string>
+	<pressure_mb>1017.0</pressure_mb>
+	<dewpoint_string>20.1 F (-6.6 C)</dewpoint_string>
+	<dewpoint_f>20.1</dewpoint_f>
+	<dewpoint_c>-6.6</dewpoint_c>
+	<windchill_string>31 F (-1 C)</windchill_string>
+      	<windchill_f>31</windchill_f>
+      	<windchill_c>-1</windchill_c>
+	<two_day_history_url>http://www.weather.gov/data/obhistory/CZEL.html</two_day_history_url>
+	<ob_url>http://www.weather.gov/data/METAR/CZEL.1.txt</ob_url>
+	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
+	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
+	<privacy_policy_url>http://weather.gov/notice.html</privacy_policy_url>
+</current_observation>

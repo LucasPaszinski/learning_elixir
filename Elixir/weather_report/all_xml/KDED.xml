@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml-stylesheet href="latest_ob.xsl" type="text/xsl"?>
+<current_observation version="1.0"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+	<credit>NOAA's National Weather Service</credit>
+	<credit_URL>http://weather.gov/</credit_URL>
+	<image>
+		<url>http://weather.gov/images/xml_logo.gif</url>
+		<title>NOAA's National Weather Service</title>
+		<link>http://weather.gov</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<location>DeLand Municipal Airport, FL</location>
+	<station_id>KDED</station_id>
+	<latitude>29.067</latitude>
+	<longitude>-81.2837</longitude>
+	<observation_time>Last Updated on Apr 16 2020, 1:35 am EDT</observation_time>
+        <observation_time_rfc822>Thu, 16 Apr 2020 01:35:00 -0400</observation_time_rfc822>
+	<temperature_string>64.0 F (18.0 C)</temperature_string>
+	<temp_f>64.0</temp_f>
+	<temp_c>18.0</temp_c>
+	<pressure_in>30.01</pressure_in>
+	<two_day_history_url>http://www.weather.gov/data/obhistory/KDED.html</two_day_history_url>
+	<ob_url>http://www.weather.gov/data/METAR/KDED.1.txt</ob_url>
+	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
+	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
+	<privacy_policy_url>http://weather.gov/notice.html</privacy_policy_url>
+</current_observation>

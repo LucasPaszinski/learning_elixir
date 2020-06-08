@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml-stylesheet href="latest_ob.xsl" type="text/xsl"?>
+<current_observation version="1.0"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+	<credit>NOAA's National Weather Service</credit>
+	<credit_URL>http://weather.gov/</credit_URL>
+	<image>
+		<url>http://weather.gov/images/xml_logo.gif</url>
+		<title>NOAA's National Weather Service</title>
+		<link>http://weather.gov</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<location></location>
+	<station_id>62125</station_id>
+	<latitude>53.8</latitude>
+	<longitude>-3.5</longitude>
+	<observation_time>Last Updated on Sep 28 2012, 12:00 pm ST </observation_time>
+        <observation_time_rfc822>Fri, 28 Sep 2012 12:00:00 +0000</observation_time_rfc822>
+	<temperature_string>55.4 F (13.0 C)</temperature_string>
+	<temp_f>55.4</temp_f>
+	<temp_c>13.0</temp_c>
+	<wind_string>West at 24.2 MPH (20.99 KT)</wind_string>
+	<wind_dir>West</wind_dir>
+	<wind_degrees>270</wind_degrees>
+	<wind_mph>24.2</wind_mph>
+	<wind_gust_mph>0.0</wind_gust_mph>
+	<wind_kt>20.99</wind_kt>
+	<pressure_string>1009.0 mb</pressure_string>
+	<pressure_mb>1009.0</pressure_mb>
+	<pressure_tendency_mb>1.0</pressure_tendency_mb>
+	<dewpoint_string>47.3 F (8.5 C)</dewpoint_string>
+	<dewpoint_f>47.3</dewpoint_f>
+	<dewpoint_c>8.5</dewpoint_c>
+	<windchill_string>50 F (10 C)</windchill_string>
+      	<windchill_f>50</windchill_f>
+      	<windchill_c>10</windchill_c>
+	<visibility_mi>11.00</visibility_mi>
+	<wave_height_m>1.6</wave_height_m>
+	<wave_height_ft>5.25</wave_height_ft>
+	<mean_wave_dir>South</mean_wave_dir>
+	<mean_wave_degrees></mean_wave_degrees>
+	<disclaimer_url>http://weather.gov/disclaimer</disclaimer_url>
+	<copyright_url>http://weather.gov/disclaimer</copyright_url>
+	<privacy_policy_url>http://weather.gov/privacy</privacy_policy_url>
+</current_observation>

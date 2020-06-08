@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml-stylesheet href="latest_ob.xsl" type="text/xsl"?>
+<current_observation version="1.0"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+	<credit>NOAA's National Weather Service</credit>
+	<credit_URL>http://weather.gov/</credit_URL>
+	<image>
+		<url>http://weather.gov/images/xml_logo.gif</url>
+		<title>NOAA's National Weather Service</title>
+		<link>http://weather.gov</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<location>Unknown Station</location>
+	<station_id>KQCA</station_id>
+	<observation_time>Last Updated on Feb 28 2013, 1:58 pm EST</observation_time>
+        <observation_time_rfc822>Thu, 28 Feb 2013 13:58:00 -0500</observation_time_rfc822>
+	<weather>Light Rain</weather>
+	<temperature_string>53.0 F (11.7 C)</temperature_string>
+	<temp_f>53.0</temp_f>
+	<temp_c>11.7</temp_c>
+	<relative_humidity>25</relative_humidity>
+	<wind_string>Northeast at 4.6 MPH (4 KT)</wind_string>
+	<wind_dir>Northeast</wind_dir>
+	<wind_degrees>60</wind_degrees>
+	<wind_mph>4.6</wind_mph>
+	<wind_kt>4</wind_kt>
+	<pressure_string>989.5 mb</pressure_string>
+	<pressure_mb>989.5</pressure_mb>
+	<pressure_in>30.43</pressure_in>
+	<dewpoint_string>18.0 F (-7.8 C)</dewpoint_string>
+	<dewpoint_f>18.0</dewpoint_f>
+	<dewpoint_c>-7.8</dewpoint_c>
+	<windchill_string>52 F (11 C)</windchill_string>
+      	<windchill_f>52</windchill_f>
+      	<windchill_c>11</windchill_c>
+	<visibility_mi>10.00</visibility_mi>
+ 	<icon_url_base>http://forecast.weather.gov/images/wtf/small/</icon_url_base>
+	<two_day_history_url>http://www.weather.gov/data/obhistory/KQCA.html</two_day_history_url>
+	<icon_url_name>ra1.png</icon_url_name>
+	<ob_url>http://www.weather.gov/data/METAR/KQCA.1.txt</ob_url>
+	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
+	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
+	<privacy_policy_url>http://weather.gov/notice.html</privacy_policy_url>
+</current_observation>

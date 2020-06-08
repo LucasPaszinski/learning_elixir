@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml-stylesheet href="latest_ob.xsl" type="text/xsl"?>
+<current_observation version="1.0"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+	<credit>NOAA's National Weather Service</credit>
+	<credit_URL>http://weather.gov/</credit_URL>
+	<image>
+		<url>http://weather.gov/images/xml_logo.gif</url>
+		<title>NOAA's National Weather Service</title>
+		<link>http://weather.gov</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<location>Unknown Station</location>
+	<station_id>45169</station_id>
+	<observation_time>Last Updated on Sep 16 2018, 11:00 pm ADT</observation_time>
+        <observation_time_rfc822>Sun, 16 Sep 2018 23:00:00 -0300</observation_time_rfc822>
+	<temperature_string>77.0 F (25.0 C)</temperature_string>
+	<temp_f>77.0</temp_f>
+	<temp_c>25.0</temp_c>
+	<water_temp_f>74.7</water_temp_f>
+	<water_temp_c>23.7</water_temp_c>
+	<wind_string>Southeast at 11.2 MPH (9.72 KT)</wind_string>
+	<wind_dir>Southeast</wind_dir>
+	<wind_degrees>150</wind_degrees>
+	<wind_mph>11.2</wind_mph>
+	<wind_gust_mph>0.0</wind_gust_mph>
+	<wind_kt>9.72</wind_kt>
+	<dewpoint_string>73.2 F (22.9 C)</dewpoint_string>
+	<dewpoint_f>73.2</dewpoint_f>
+	<dewpoint_c>22.9</dewpoint_c>
+	<wave_height_m>0.4</wave_height_m>
+	<wave_height_ft>1.31</wave_height_ft>
+	<dominant_period_sec>4</dominant_period_sec>
+	<mean_wave_dir>East</mean_wave_dir>
+	<mean_wave_degrees>73</mean_wave_degrees>
+	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
+	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
+	<privacy_policy_url>http://weather.gov/notice.html</privacy_policy_url>
+</current_observation>

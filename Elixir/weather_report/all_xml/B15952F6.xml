@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<?xml-stylesheet href="latest_ob.xsl" type="text/xsl"?>
+<current_observation version="1.0"
+	 xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:noNamespaceSchemaLocation="http://www.weather.gov/view/current_observation.xsd">
+	<credit>NOAA's National Weather Service</credit>
+	<credit_URL>http://weather.gov/</credit_URL>
+	<image>
+		<url>http://weather.gov/images/xml_logo.gif</url>
+		<title>NOAA's National Weather Service</title>
+		<link>http://weather.gov</link>
+	</image>
+	<suggested_pickup>15 minutes after the hour</suggested_pickup>
+	<suggested_pickup_period>60</suggested_pickup_period>
+	<location>Unknown Station</location>
+	<station_id>B15952F6</station_id>
+	<observation_time>Last Updated on Aug 13 2018, 4:30 pm ST </observation_time>
+        <observation_time_rfc822>Mon, 13 Aug 2018 16:30:00 +0000</observation_time_rfc822>
+	<temperature_string>73.0 F (23.0 C)</temperature_string>
+	<temp_f>73.0</temp_f>
+	<temp_c>23.0</temp_c>
+	<wind_string>from the Southeast at 49.5 gusting to 86.3 MPH (43 gusting to 75 KT)</wind_string>
+	<wind_dir>Southeast</wind_dir>
+	<wind_degrees>152</wind_degrees>
+	<wind_mph>49.5</wind_mph>
+	<wind_gust_mph>86.3</wind_gust_mph>
+	<wind_kt>43</wind_kt>
+	<wind_gust_kt>75</wind_gust_kt>
+	<pressure_string>102.1 mb</pressure_string>
+	<pressure_mb>102.1</pressure_mb>
+	<two_day_history_url>http://www.weather.gov/data/obhistory/B15952F6.html</two_day_history_url>
+	<ob_url>http://www.weather.gov/data/METAR/B15952F6.1.txt</ob_url>
+	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
+	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
+	<privacy_policy_url>http://weather.gov/notice.html</privacy_policy_url>
+</current_observation>
